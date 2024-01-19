@@ -1,0 +1,16 @@
+/* Just remove stuff for printing */
+
+header {
+    display: none;
+}
+.resume-title {
+    display: none;
+}
+.pdf-button {
+    display: none;
+}
+.resume-sheet {
+    position: absolute;
+    top: 0;
+    box-shadow: none;
+}
